@@ -1,0 +1,1 @@
+mongoimport --db <nome_da_base> --collection <nome_da_colecao> --file <caminho_do_arquivo> --type <tipo_do_arquivo> [opcoes_adicionais]

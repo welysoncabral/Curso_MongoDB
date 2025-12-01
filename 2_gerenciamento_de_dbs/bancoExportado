@@ -1,0 +1,3 @@
+{"_id":{"$oid":"690e3f5521eecb360363b115"},"nome":"Emanuel","idade":8,"sexo":"Masculino"}
+{"_id":{"$oid":"690e3f5d21eecb360363b116"},"nome":"Izarildo","idade":55,"sexo":"Masculino"}
+{"_id":{"$oid":"690e3f6221eecb360363b117"},"nome":"Welyson","idade":34,"sexo":"Masculino"}
